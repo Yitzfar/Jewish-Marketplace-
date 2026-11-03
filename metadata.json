@@ -1,0 +1,6 @@
+{
+  "name": "HeimishMarket - אידישער קהילה מארקעטפלעץ & RFP",
+  "description": "Bilingual Heimish (Satmar) Yiddish & English multi-vendor e-commerce marketplace platform, featuring AI shopping assistant, kosher certification filtering, Shabbos schedule pause, FBA-style WMS, Yom Tov bundles, and tzedakah round-up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
